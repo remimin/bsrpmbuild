@@ -1,0 +1,18 @@
+Name: miner
+Version: 1.1.0
+Summary: OpenStack Compute HA Service
+Home-page: http://www.chinacloud.com.cn/
+Author: Renminmin
+Author-email: renmm6@chinaunicom.cn
+License: UNKNOWN
+Description: ======
+        Blackswan (Openstack Compute HA Service)
+        ======
+
+
+Platform: UNKNOWN
+Classifier: Environment :: OpenStack
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Golang:: 1.13

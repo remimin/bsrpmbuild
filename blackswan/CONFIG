@@ -1,0 +1,5 @@
+TYPE=script
+GITURL=git@172.20.2.149:openstack_r_group/blackswan.git
+STABLE_REPODIR=/home/wocloud/production/centos/7/centos-openstack-rocky
+DEVEL_REPODIR=/home/wocloud/test/centos/7/centos-openstack-rocky
+REPO_HOST=mirrors.wocloud.io
